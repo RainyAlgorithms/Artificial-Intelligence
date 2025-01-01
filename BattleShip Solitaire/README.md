@@ -73,6 +73,7 @@ Example input:
 ## Requirements
 
 - Python 3.x
+- Compatible with the `teach.cs` server.
 
 ## Notes
 
